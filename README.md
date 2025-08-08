@@ -18,7 +18,7 @@
                      |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
 
-<img align="left" src=="resources/space.gif" alt="Welcome to my GitHub profile!" width="300" height="270"/>
+<img align="left" src=="https://64.media.tumblr.com/7cad9c212d874927c0b69469c649df7f/d0c33dc4908cc2c0-12/s2048x3072/abbf00eb1b2791e6a5622fbeeee884b4380f0a43.gifv" alt="Welcome to my GitHub profile!" width="300" height="270"/>
 
 <!--
 **ebai03/ebai03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
