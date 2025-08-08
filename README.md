@@ -39,26 +39,36 @@ esteban@github:~$ cat about_me.txt
 esteban@github:~$ git log --oneline --graph
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebai03&show_icons=true&theme=dark" align="right" alt="GitHub Stats" width="320">
+<img src="https://github-readme-stats.vercel.app/api?username=ebai03&show_icons=true&theme=dark" align="right" alt="GitHub Stats" height="150">
 
-```bash
+```html
+               __
               / _)
      _.----._/ /
     /         /
  __/ (  | (  |
 /__.-'|_|--|_|
 ```
-<!--
-**ebai03/ebai03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+esteban@github:~$ cat todo_list.txt
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebai03&theme=github-dark" align="left" alt="Coding" width="450">
+
+```markdown
+- [ ] Graduate
+- [ ] Contribute to open source projects
+- [ ] Migrate Gitlab projects to GitHub
+- [ ] Build a personal website
+- [ ] Explore more AI applications
+```
