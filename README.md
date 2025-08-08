@@ -30,6 +30,9 @@ esteban@github:~$ cat about_me.txt
 🏗️ Learning Clean Architecture through enterprise-level projects
 ☁️ Experience with Azure deployment & authentication systems
 📊 Data analysis and statistical modeling with Python
+🚀 Interested in space tech, algorithm optimization & AI integration
+🎮 Game integration enthusiast (KSP API, Minecraft server optimization)
+🤖 Exploring AI applications in costumer interaction and development workflows
 ```
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
