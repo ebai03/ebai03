@@ -27,7 +27,6 @@ esteban@github:~$ cat about_me.txt
 ```bash
 🧑‍🎓 CS Student @ Universidad de Costa Rica  
 🔧 Backend Developer focusing on .NET Core & Cloud Technologies
-🏗️ Learning Clean Architecture through enterprise-level projects
 ☁️ Experience with Azure deployment & authentication systems
 📊 Data analysis and statistical modeling with Python
 🚀 Interested in space tech, algorithm optimization & AI integration
