@@ -38,7 +38,7 @@ esteban@github:~$ cat about_me.txt
 esteban@github:~$ git log --oneline --graph
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebai03&show_icons=true&theme=dark" align="right" alt="GitHub Stats" height="150">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ebai03&show_icons=true&theme=gruvbox" align="right" alt="GitHub Stats" height="150">
 
 ```html
                __
@@ -50,8 +50,6 @@ esteban@github:~$ git log --oneline --graph
 ```
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
