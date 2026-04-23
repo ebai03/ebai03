@@ -1,24 +1,22 @@
+```bash
+esteban@github:~$ cowsay -f stegosaurus "Welcome to my personal GitHub profile"
+```
 ```html
-  _______________________________________
-< Welcome, to my personal GitHub profile! >
- ----------------------------------------
- \                            .       .
-  \                          / `.   .' "
-   \                 .---.  <    > <    >  .---.
-    \                |    \  \ - ~ ~ - /  /    |
-         _____          ..-~             ~-..-~
-        |     |   \~~~\.'                    `./~~~/
-       ---------   \__/                        \__/
-      .'  O    \     /               /       \  "
-     (_____,    `._.'               |         }  \/~~~/
-      `----.          /       }     |        /    \__/
-            `-.      |       /      |       /      `. ,~~|
-                ~-.__|      /_ - ~ ^|      /- _      `..-'
-                     |     /        |     /     ~-.     `-. _  _  _
-                     |_____|        |_____|         ~ - . _ _ _ _ _>
+ _______________________________________
+< Welcome to my personal GitHub profile >
+ ---------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 ```
 
-<img src="./resources/space.gif" align="left" alt="Space" width="320">
+<img src="./resources/space.gif" align="left" alt="Space" width="340">
 
 ```bash
 esteban@github:~$ cat about_me.txt
@@ -31,9 +29,9 @@ esteban@github:~$ cat about_me.txt
 📊 Data analysis and statistical modeling with Python
 🚀 Interested in space tech, algorithm optimization & AI integration
 🎮 Game integration enthusiast (KSP API, Minecraft server optimization)
-🤖 Exploring AI applications in costumer interaction and development workflows
-```
 
+
+```
 ```bash
 esteban@github:~$ git log --oneline --graph
 ```
