@@ -40,34 +40,38 @@ esteban@github:~$ cat about_me.txt
 esteban@github:~$ git log --oneline --graph
 ```
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ebai03&show_icons=true&theme=gruvbox" align="right" alt="ksp_landing" height="150">
 
-```html
-               __
-              / _)
-     _.----._/ /
-    /         /
- __/ (  | (  |
-/__.-'|_|--|_|
-```
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ebai03&show_icons=true&theme=gruvbox" align="left" alt="ksp_landing" height="150">
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+
+<img src="./resources/space.gif" align="right" alt="Space" width="340">
 
 ```bash
 esteban@github:~$ cat todo_list.txt
 ```
 
-<img src="./resources/space.gif" align="left" alt="Space" width="340">
-
 ```markdown
 - [ ] Graduate
-- [ ] Contribute to open source projects
-- [ ] Migrate Gitlab projects to GitHub
-- [ ] Build a personal website
-- [ ] Explore more AI applications
+- [X] Contribute to open source projects
+- [X] Migrate Gitlab projects to GitHub
+- [ ] Get certifications in Cloud technologies (Azure, AWS, GCP)
+- [X] Contribute to my University
 ```
