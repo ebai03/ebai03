@@ -1,5 +1,5 @@
 ```bash
-esteban@github:~$ cowsay -f stegosaurus "Welcome to my personal GitHub profile"
+esteban@github:~$ cowsay -f tux "Welcome to my personal GitHub profile"
 ```
 ```html
  _______________________________________
@@ -16,7 +16,10 @@ esteban@github:~$ cowsay -f stegosaurus "Welcome to my personal GitHub profile"
     \___)=(___/
 ```
 
-<img src="./resources/space.gif" align="left" alt="Space" width="340">
+---
+
+<img src="./resources/ksp_landing_compressed.gif" align="left" alt="Space" width="400">
+
 
 ```bash
 esteban@github:~$ cat about_me.txt
@@ -29,14 +32,15 @@ esteban@github:~$ cat about_me.txt
 📊 Data analysis and statistical modeling with Python
 🚀 Interested in space tech, algorithm optimization & AI integration
 🎮 Game integration enthusiast (KSP API, Minecraft server optimization)
-
-
 ```
+
+---
+
 ```bash
 esteban@github:~$ git log --oneline --graph
 ```
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ebai03&show_icons=true&theme=gruvbox" align="right" alt="GitHub Stats" height="150">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ebai03&show_icons=true&theme=gruvbox" align="right" alt="ksp_landing" height="150">
 
 ```html
                __
@@ -58,7 +62,7 @@ esteban@github:~$ git log --oneline --graph
 esteban@github:~$ cat todo_list.txt
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebai03&theme=github-dark" align="left" alt="Coding" width="450">
+<img src="./resources/space.gif" align="left" alt="Space" width="340">
 
 ```markdown
 - [ ] Graduate
